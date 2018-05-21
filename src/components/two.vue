@@ -10,7 +10,7 @@ export default {
   name: 'two',
   data () {
     return {
-      author: '必颖'
+      author: '现在更改一点东西'
     }
   }
 }
